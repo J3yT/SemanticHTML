@@ -7,6 +7,7 @@ To refactor this webpage and improve its accessibility. To improve my skills whe
 ## Usage
 used to show all the benefits of search engine optimization
 ![Alt text](/assets/images/Screenshot%202023-03-29%20161355.png)
+https://j3yt.github.io/SemanticHTML/ link to the deployed webpage
 
 ## Credits
 
