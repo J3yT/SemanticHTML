@@ -96,24 +96,13 @@ section div {
 }
 
 /* removed repeating css code and condensed it into the .benefits class and h3 selector */
-.benefits, h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+/* removed repeating css code and condensed it into the benefits class and img selector */
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
