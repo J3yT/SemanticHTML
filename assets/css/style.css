@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* changed div into header and removed the class of header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* changed all instances of div into nav*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* removed the background link declaration  */
 .hero {
     height: 800px;
     width: 100%;
@@ -187,6 +190,7 @@ p {
     font-size: 36px;
 }
 
+/* changed div into a footer element removing the footer class */
 footer {
     padding: 30px;
     clear: both;
