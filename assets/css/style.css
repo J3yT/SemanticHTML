@@ -123,17 +123,8 @@ main img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/* removed all the class selectors and condensed the selector */
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
