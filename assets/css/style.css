@@ -108,7 +108,8 @@ section div {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+/* for every div in the main element i removed every class and targeted all three divs with main div selector */
+main div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -117,33 +118,8 @@ section div {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+/* removed all the class selectors and condensed the selector */
+main img {
     max-height: 200px;
 }
 
