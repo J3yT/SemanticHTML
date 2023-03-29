@@ -89,17 +89,8 @@ main {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+/* removed repeating css code and condensed it into section div selector */
+section div {
     margin-bottom: 32px;
     color: #ffffff;
 }
